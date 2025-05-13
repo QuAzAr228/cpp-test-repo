@@ -1,0 +1,674 @@
+[
+    {
+        "file_name": "02_t-QIV.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "t-QIV"
+    },
+    {
+        "file_name": "03_p-QIV.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "p-QIV"
+    },
+    {
+        "file_name": "04_l_h-QIV.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "l"
+    },
+    {
+        "file_name": "05_a-QIV.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "a-QIV"
+    },
+    {
+        "file_name": "20_a-QIII3.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "a-QIII3"
+    },
+    {
+        "file_name": "21_l_h-QIII.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "l"
+    },
+    {
+        "file_name": "24_a-QIII2.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "a-QIII2"
+    },
+    {
+        "file_name": "26_pr-QIII.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "pr-QIII"
+    },
+    {
+        "file_name": "30_a-QIII1.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "a-QIII1"
+    },
+    {
+        "file_name": "38_f_lg-QIIms.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "f"
+    },
+    {
+        "file_name": "39_g-QIIms.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "g-QIIms"
+    },
+    {
+        "file_name": "45_f_lg-QIId-ms.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "f"
+    },
+    {
+        "file_name": "49_g-QIId.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "g-QIId"
+    },
+    {
+        "file_name": "57_f-QIIo-d.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "f-QIIo-d"
+    },
+    {
+        "file_name": "71_K1.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "K1"
+    },
+    {
+        "file_name": "73_J3v.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "J3v"
+    },
+    {
+        "file_name": "75_J3ox.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "J3ox"
+    },
+    {
+        "file_name": "76_J3k.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "J3k"
+    },
+    {
+        "file_name": "78_J2+3bt-k.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "J2+3bt-k"
+    },
+    {
+        "file_name": "83_e(C).tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "e(C)"
+    },
+    {
+        "file_name": "91_C3izm.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "C3izm"
+    },
+    {
+        "file_name": "92_C3msc.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "C3msc"
+    },
+    {
+        "file_name": "94_C3pr.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "C3pr"
+    },
+    {
+        "file_name": "95_C3nvr.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "C3nvr"
+    },
+    {
+        "file_name": "97_C3rt.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "C3rt"
+    },
+    {
+        "file_name": "98_C3vs.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "C3vs"
+    },
+    {
+        "file_name": "100_C3sv.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "C3sv"
+    },
+    {
+        "file_name": "105_C2pd-mc.tif",
+        "bounds": {
+            "left": 12808.0,
+            "bottom": 14808.0,
+            "right": 16200.0,
+            "top": 18200.0
+        },
+        "width": 848,
+        "height": 848,
+        "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"Unknown based on Bessel 1841 ellipsoid using towgs84=0,0,0,-1.57273,2.69209,2.34693,-0.0000084507\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],TOWGS84[0,0,0,-1.57273,2.69209,2.34693,-8.4507E-06]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",55.6666666666667],PARAMETER[\"central_meridian\",37.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "transform": [
+            4.0,
+            0.0,
+            12808.0,
+            0.0,
+            -4.0,
+            18200.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "index": "C2pd-mc"
+    }
+]
